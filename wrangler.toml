@@ -1,4 +1,4 @@
-name = "streamlab-worker"
+name = "streamlab"
 main = "src/index.js"
 compatibility_date = "2025-06-24"
 
