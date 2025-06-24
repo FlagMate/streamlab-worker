@@ -1,0 +1,8 @@
+name = "streamlab-worker"
+main = "src/index.js"
+compatibility_date = "2025-06-24"
+
+[[r2_buckets]]
+binding = "STREAM_BUCKET"
+bucket_name = "streamlab-configs"
+preview_bucket_name = "streamlab-configs"
